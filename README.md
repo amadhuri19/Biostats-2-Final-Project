@@ -1,6 +1,6 @@
 Analysis of Temporal Factors and Surgical Outcomes.
 
-Introduction
+Introduction.
 This study examines the impact of temporal factors on 30-day mortality and surgical complications associated with elective general surgery. Factors analyzed include the time of day, day of the week, season, and moon phase. Understanding these influences can guide surgical scheduling to improve patient outcomes.
 
 Research Questions.
